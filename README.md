@@ -3,7 +3,7 @@
 ## Tool to DNS transfer zones and subdomains bruteforce
 
 ### **usage**: 
-DNSExplorer.py [-h] -d <*domain*> -w <*wordlist*> -n <*number*>
+python3 DNSExplorer.py [-h] -d <*domain*> -w <*wordlist*> -n <*number*>
 
 
 
